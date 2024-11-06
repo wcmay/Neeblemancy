@@ -10,6 +10,6 @@ HOW TO RUN NEEBLEMANCY (on Mac)
 5. Enjoy!
 
 
-HOW TO RUN NEEBLEMANCY (on Mac)
+HOW TO RUN NEEBLEMANCY (on Windows)
 1. Double click on neeblemancy_win.exe
 2. Enjoy!
