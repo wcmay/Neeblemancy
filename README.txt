@@ -5,6 +5,11 @@ HOW TO RUN NEEBLEMANCY (on Mac)
 3. Select "New Terminal at Folder"
 4. Type the following command into the terminal and then press return
 
-./neeblemancy.exe
+./neeblemancy_mac.exe
 
 5. Enjoy!
+
+
+HOW TO RUN NEEBLEMANCY (on Mac)
+1. Double click on neeblemancy_win.exe
+2. Enjoy!
